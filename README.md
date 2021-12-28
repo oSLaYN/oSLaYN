@@ -1,7 +1,7 @@
 ### Hi there, I'm Rodrigo Paiva - aka [oSLaYN][twitch] 👋 
 
 [![Website](https://img.shields.io/website?label=slayn.website&style=for-the-badge&url=https%3A%2F%2Fslayn.website)](https://slayn.website/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcall_me_paiva&screen_name=call_me_paiva)
+[![Twitter Follow](https://img.shields.io/twitter/follow/call_me_paiva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcall_me_paiva&screen_name=call_me_paiva)
 
 ## I'm a Student, Developer, Streamer and Gamer!!
 
