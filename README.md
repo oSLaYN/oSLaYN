@@ -1,4 +1,4 @@
-### Hi there, I'm Rodrigo Paiva - aka [oSLaYN][twitch] 👋 
+### Hi there, I'm Rodrigo Paiva - aka [oSLaYN][website] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/call_me_paiva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcall_me_paiva&screen_name=call_me_paiva)
 
@@ -23,3 +23,4 @@
 [youtube]: https://youtube.com/c/SLaYN_YT
 [instagram]: https://instagram.com/rodrigopaiva.03
 [twitch]: https://twitch.tv/oSLaYN
+[website]: https://slayn.pt
