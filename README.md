@@ -4,10 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="oSLaYN YouTube" width="22px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="oSLaYN Twitch" width="22px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-
-<br />
+[<img align="left" alt="oSLaYN YouTube" width="22px" style="color: blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="oSLaYN Twitch" width="22px" style="color: blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
