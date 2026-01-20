@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodrigo "oSLaYN" Paiva 👋 
 
-## 👨‍💻 University Student & Developer
+## 👨‍💻 University Student, Cybersecurity, Network & Infrastructure Enthusiast & Software Developer
 
 ## Connect with me:
 [![Website](https://img.shields.io/badge/Website-%237289DA.svg?logo=Apache&logoColor=white)](https://slayn.pt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigopaiva.03)
