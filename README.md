@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodrigo "oSLaYN" Paiva 👋 
 
-## 👨‍💻 University Student, Cybersecurity, Network & Infrastructure Enthusiast & Software Developer
+## 👨‍💻 BSc Degree in Web, Mobile and Cloud Computing @ UBI | MSc Degree in Computer Engineering @ UBI | Cybersecurity, Network & Telecommunications Enthusiast
 
 ## Connect with me:
 [![Website](https://img.shields.io/badge/Website-%237289DA.svg?logo=Apache&logoColor=white)](https://rpaiva.pt) [![Socials](https://img.shields.io/badge/Socials-%23E4405F.svg?logo=Instagram&logoColor=white)](https://slayn.pt)
